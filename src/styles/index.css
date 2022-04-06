@@ -1,0 +1,70 @@
+@font-face {
+    font-family: "DUNGRG";
+    src: url("DUNGRG.TTF");
+    /* src: url("CustomFont.woff") format("woff"),
+    url("CustomFont.otf") format("opentype"),
+    url("CustomFont.svg#filename") format("svg"); */
+}
+
+h2 {
+    font-size: 36px;
+    margin: 5px 0;
+}
+h3 {
+    font-size: 32px;
+    margin: 5px 0;
+}
+h4 {
+    font-size: 28px;
+    margin: 5px 0;
+}
+
+*{
+    font-family: DUNGRG;
+}
+
+
+html {
+    overflow: hidden;
+}
+
+
+
+
+/* Mensaje de Resultado */
+.messageDice {
+    position: absolute;
+    right: 50px;
+    top: 30px;
+    background-color: rgba(255, 255, 255, 0.644);
+    padding: 10px 15px;
+    border-radius: 5px;
+    border: rgb(117, 88, 44) solid 3px;
+    box-shadow: 0px 5px 10px black;
+    color: rgb(117, 91, 53);
+    max-width: 250px;
+    text-align: justify;
+}
+
+.messageDice h4 span {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+
+/* Hoja del personaje */
+.charPaper{
+    height:800px;
+    width:200px;
+    background-color: rgba(255, 255, 255, 0.644);
+    padding: 20px;
+    color: rgb(117, 91, 53);
+    box-shadow: 3px 0px 10px black;
+    border-right: rgb(117, 88, 44) solid 5px;
+}
+
+#dice-box {
+    z-index: 999;
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+}

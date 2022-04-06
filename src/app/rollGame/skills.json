@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1,
+        "key": "da1ba677-ee43-47a9-9e1f-85cc35388777",
+        "name": "Acrobatics",
+        "value": "Dex",
+        "pb": false
+    },
+    {
+        "id": 2,
+        "key": "12dffe5b-2281-42eb-94c1-5a2066d4a424",
+        "name": "Animal Handling",
+        "value": "Wis",
+        "pb": false
+    },
+    {
+        "id": 3,
+        "key": "3b3aee62-6587-47a5-be25-d743bddba265",
+        "name": "Arcana",
+        "value": "Int",
+        "pb": false
+    },
+    {
+        "id": 4,
+        "key": "a52edd45-0fe0-465d-8455-838ba6115e4e",
+        "name": "Athletics",
+        "value": "Str",
+        "pb": true
+    },
+    {
+        "id": 5,
+        "key": "7c5e69f0-7c40-431b-80ec-15e485822389",
+        "name": "Deception",
+        "value": "Cha",
+        "pb": false
+    },
+    {
+        "id": 6,
+        "key": "3b3aee62-6587-47a5-be25-d743bddba265",
+        "name": "History",
+        "value": "Int",
+        "pb": false
+    },
+    {
+        "id": 7,
+        "key": "12dffe5b-2281-42eb-94c1-5a2066d4a424",
+        "name": "Insight",
+        "value": "Wis",
+        "pb": false
+    },
+    {
+        "id": 8,
+        "key": "7c5e69f0-7c40-431b-80ec-15e485822389",
+        "name": "Intimidation",
+        "value": "Cha",
+        "pb": false
+    },
+    {
+        "id": 9,
+        "key": "3b3aee62-6587-47a5-be25-d743bddba265",
+        "name": "Investigation",
+        "value": "Int",
+        "pb": false
+    },
+    {
+        "id": 10,
+        "key": "12dffe5b-2281-42eb-94c1-5a2066d4a424",
+        "name": "Medicine",
+        "value": "Wis",
+        "pb": true
+    },
+    {
+        "id": 11,
+        "key": "3b3aee62-6587-47a5-be25-d743bddba265",
+        "name": "Nature",
+        "value": "Int",
+        "pb": false
+    },
+    {
+        "id": 12,
+        "key": "12dffe5b-2281-42eb-94c1-5a2066d4a424",
+        "name": "Perception",
+        "value": "Wis",
+        "pb": false
+    },
+    {
+        "id": 13,
+        "key": "12dffe5b-2281-42eb-94c1-5a2066d4a424",
+        "name": "Performance",
+        "value": "Wis",
+        "pb": false
+    },
+    {
+        "id": 14,
+        "key": "7c5e69f0-7c40-431b-80ec-15e485822389",
+        "name": "Persuasion",
+        "value": "Cha",
+        "pb": false
+    },
+    {
+        "id": 15,
+        "key": "3b3aee62-6587-47a5-be25-d743bddba265",
+        "name": "Religion",
+        "value": "Int",
+        "pb": true
+    },
+    {
+        "id": 16,
+        "key": "da1ba677-ee43-47a9-9e1f-85cc35388777",
+        "name": "Sleight of Hand",
+        "value": "Dex",
+        "pb": false
+    },
+    {
+        "id": 17,
+        "key": "da1ba677-ee43-47a9-9e1f-85cc35388777",
+        "name": "Stealth",
+        "value": "Dex",
+        "pb": false
+    },
+    {
+        "id": 18,
+        "key": "12dffe5b-2281-42eb-94c1-5a2066d4a424",
+        "name": "Survival",
+        "value": "Wis",
+        "pb": true
+    }
+]

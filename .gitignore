@@ -1,0 +1,7 @@
+node_modules
+build
+public/assets
+src/app/elements/assets/img/
+src/styles/DUNGRG.TTF
+src/app/config/tmi.json
+package-lock.json

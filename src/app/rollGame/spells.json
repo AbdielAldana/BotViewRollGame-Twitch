@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Sending",
+        "saving_throw": false,
+        "dice": "",
+        "saving_throw_stat": "",
+        "saving_throw_number": 0
+    },
+    {
+        "id": 2,
+        "name": "Fast Friends",
+        "saving_throw": true,
+        "dice": "1d20",
+        "saving_throw_stat": "Sabiduria",
+        "saving_throw_number": 15
+    },
+    {
+        "id": 3,
+        "name": "Calm Emotions",
+        "saving_throw": true,
+        "dice": "1d20",
+        "saving_throw_stat": "Carisma",
+        "saving_throw_number": 15
+    },
+    {
+        "id": 4,
+        "name": "Clairvoyance",
+        "saving_throw": false,
+        "dice": "",
+        "saving_throw_stat": "",
+        "saving_throw_number": 0
+    },
+    {
+        "id": 5,
+        "name": "Detect Magic",
+        "saving_throw": false,
+        "dice": "",
+        "saving_throw_stat": "",
+        "saving_throw_number": 0
+    },
+    {
+        "id": 6,
+        "name": "Hold Person",
+        "saving_throw": true,
+        "dice": "1d20",
+        "saving_throw_stat": "Sabiduria",
+        "saving_throw_number": 15
+    },
+    {
+        "id": 7,
+        "name": "Toll of the dead",
+        "saving_throw": true,
+        "dice": ["1d20", "2d8"],
+        "saving_throw_stat": "Sabiduria",
+        "saving_throw_number": 15
+    }
+]

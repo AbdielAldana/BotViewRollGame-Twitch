@@ -1,0 +1,94 @@
+[
+    {
+        "name": "Vida",
+        "key": "key-001-v",
+        "base": 75,
+        "actual": 55,
+        "falsa": 35
+
+    },
+    {
+        "name": "Jokuna",
+        "key": "key-002-j",
+        "nivel": "13",
+        "Raza": "Gnomo",
+        "Clasee": "Paladin"
+    },
+    {
+        "name": "Fuerza",
+        "key": "a52edd45-0fe0-465d-8455-838ba6115e4e",
+        "base": 10,
+        "mod": "+0",
+        "dado": "1d20",
+        "vemtajaDado": "2d20"
+
+    },
+    {
+        "name": "Destreza",
+        "key": "da1ba677-ee43-47a9-9e1f-85cc35388777",
+        "base": 12,
+        "mod": "+1",
+        "dado": "1d20",
+        "vemtajaDado": "2d20"
+    },
+    {
+        "name": "Constitucion",
+        "key": "69498140-835d-422b-9871-83094527a0cf",
+        "base": 13,
+        "mod": "+1",
+        "dado": "1d20",
+        "vemtajaDado": "2d20"
+    },
+    {
+        "name": "Inteligencia",
+        "key": "3b3aee62-6587-47a5-be25-d743bddba265",
+        "base": 13,
+        "mod": "+1",
+        "dado": "1d20",
+        "vemtajaDado": "2d20"
+    },
+    {
+        "name": "Sabiduria",
+        "key": "12dffe5b-2281-42eb-94c1-5a2066d4a424",
+        "base": 16,
+        "mod": "+3",
+        "dado": "1d20",
+        "vemtajaDado": "2d20"
+    },
+    {
+        "name": "Carisma",
+        "key": "7c5e69f0-7c40-431b-80ec-15e485822389",
+        "base": 8,
+        "mod": "-1",
+        "dado": "1d20",
+        "vemtajaDado": "2d20"
+    },
+    {
+        "name": "Armor Class",
+        "key": "key-003-ac",
+        "value": "18"
+    },
+    {
+        "name": "Initiative",
+        "key": "key-004-i",
+        "value": "6"
+    },
+    {
+        "name": "Speed",
+        "key": "key-005-s",
+        "value": "25"
+    },
+    {
+        "name": "Proficiency Bonus",
+        "key": "key-006-pb",
+        "value": 4
+    },
+    {
+        "name": "Skills",
+        "key": "9add5498-d016-4c89-bfaf-6411df12a4dd"
+    },
+    {
+        "name": "Spells",
+        "key": "515f8aac-7eb7-47b2-a7ea-40ccb8f92e8c"
+    }
+]
