@@ -1,5 +1,5 @@
 # BotView Roll Game (TwitchAPI | TMI.JS)
-BotView para mostrar en pantalla dados.
+BotView que muestra en pantalla de OBS tiradas para jugar D&D (dados).
 
 
 # Secuencia de imagenes y Video
