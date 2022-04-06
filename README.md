@@ -1,4 +1,4 @@
-# BotView Roll Game (TwitchAPI | TMI.JS)
+# BotView Roll Game (tmi.js | 3d-Dice | ReactJS)
 BotView que muestra en pantalla de OBS tiradas para jugar D&D (dados).
 
 
